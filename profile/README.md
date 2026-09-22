@@ -1,15 +1,11 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing. This document outlines how to participate effectively across our organisation.
-
----
+This document outlines how to participate effectively across our organisation.
 
 ## 1. Getting Started
 - Ensure you have access to the relevant repositories.
 - Review the README and any project‑specific documentation.
 - Follow our coding standards and architectural guidelines.
-
----
 
 ## 2. Conventions
 
