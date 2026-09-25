@@ -5,10 +5,7 @@ We take security seriously and appreciate responsible disclosure of vulnerabilit
 ---
 
 ## Reporting a Vulnerability
-If you discover a security issue, please report it privately:
-
-**Email:** jeremy_sprague@outlook.com
-**Do not** open public GitHub issues for security concerns.
+If you discover a security issue, please report it:
 
 Provide:
 - Description of the vulnerability  
